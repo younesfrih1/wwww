@@ -1,0 +1,9 @@
+img{width: 40%;
+    margin-left: 380px;}
+.t{color: blue;
+    text-align: center;
+    display: inline-block;
+}
+p:hover{ color: blue;   display: inline-block;
+}
+h1:hover{color: red;}

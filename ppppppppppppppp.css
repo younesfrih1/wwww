@@ -1,0 +1,15 @@
+p{
+    display: inline-block;
+    color:white;
+    width:250px;
+    opacity: 0.3;
+    background-color: black;
+    font-size: 30px;
+    padding: 20px 10px;
+    margin-left: 20px;
+}
+p:hover{opacity: 1;}
+div{margin-left:  240px;}
+body{
+    background-image: url(20211202_153115.jpg);
+}
